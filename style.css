@@ -7,7 +7,7 @@
     color: white;
 }
 body{
-    font-size: 21px;
+    font-size: 16.8px;
 }
 .body1{
     background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(./Butterfly.jpg);
@@ -82,7 +82,7 @@ header{
 }
 
 ul li{
-    font-size: 20px;
+    font-size: 16px;
     /* padding: 20px 40px; */
     padding: 20px 10px 0 10px;
     list-style: none;
@@ -117,7 +117,7 @@ main p{
     text-align: center;
 }
 main button{
-    padding: 16px 32px;
+    padding: 12.8px 25.6px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -176,13 +176,13 @@ main button{
     box-sizing: border-box;
 }
 .A:link{
-    font-size: 25px;
+    font-size: 21px;
 }
 .A:visited{
     color: #06071a;
 }
 .l:hover{
-    font-size: 25px;
+    font-size: 21px;
 }
 footer{
     margin-top: 10px;
